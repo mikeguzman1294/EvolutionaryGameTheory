@@ -2,7 +2,7 @@
 ## Evolutionary Game Theory and Agent-Based Modelling
 
 ***
-This repository contains the NetLogo implementation of the several Evolutionary Game Theory simulations based on the classic Hawk-Dove games.
+This repository contains the NetLogo implementation of several Evolutionary Game Theory simulations based on the classic Hawk-Dove games.
 
 It also contains a Jupyter notebook which serves as a parser script for processing Netlogo's simulation data into a suitable format for data analysis.
 
